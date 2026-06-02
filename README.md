@@ -1,5 +1,5 @@
 # Nonlocal-Interface
-This repository contains the implementation of the paper A Nonlocal Interface Problem with Sharp Interfaces, written in Python.
+This repository contains the implementation of the paper [A Nonlocal p-Laplacian Interface Model with Sharp Interface](https://arxiv.org/abs/2606.00594), written in Python.
 
 ## Dependencies
 NumPy and SciPy. The code is tested on the following version:
